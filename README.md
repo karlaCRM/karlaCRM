@@ -3,7 +3,7 @@
 I like to consider myself an artisan. Everything I have learned has been driven by the desire to "create", to materialize my ideas and be able to share them with others.
 Each line drawn with the machine, each vector created in Illustrator is a form of self-expression focused on a client, and truly, I promise you... there is nothing more beautiful than knowing that you have made someone happy by giving them what they need .
 For me Frontend development is a simile because in each project I am creating from scratch and materializing through myself, a product that will be used by others.</p>
-<p><a href="https://www.linkedin.com/in/karla-cecilia-rm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn Icon" width="40" height="40"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
+<p><a href="https://www.linkedin.com/in/karla-cecilia-rm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn Icon" width="40" height="40"></a> </p>
 <p>❤️‍🔥🌮 In this profile we love javascript and tacos  🌮❤️‍🔥</p>
 <img align="right" src="https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif" />
 <h2>⚡️ About me Facts</h2>
