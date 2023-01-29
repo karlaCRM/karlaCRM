@@ -28,7 +28,7 @@ For me Frontend development is a simile because in each project I am creating fr
 <li>🤓 I’m currently learning <strong>TS and Angular</strong>.</li>
 <li>🧐 I am practicing my spoken English, I can understand it almost perfectly.</li>
 <li>📙 Here you can find my resume <a href="https://www.stanleylim.me/resume/resume.pdf"></a>.</li>
-<li>🤖 Fun Fact: I think we were born to do more than one thing, I love learning new things。</li>
+<li>🤖 Karla's Fact: I think we were born to do more than one thing, I love learning new things。</li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
