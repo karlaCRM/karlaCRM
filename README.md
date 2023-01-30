@@ -1,12 +1,12 @@
 ![bannerK](https://user-images.githubusercontent.com/114018277/215351626-2ab336d9-dc35-4533-9b08-1cd599f70572.png)
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=karlaCRM.karlaCRM" alt="visitors"></p>
 
-<h2>Hi 🔥💻, I'm Karla a.k.a "Abraxas" 🔥💻</h2>
+<h1>Hi 🔥💻, I'm Karla a.k.a "Abraxas" 🔥💻</h1>
 <p align="justify"><strong>I'm a front-end developer, graphic designer, and tattoo artist based in Mexico.</strong>
 I like to consider myself an artisan. Everything I have learned has been driven by the desire to "create", to materialize my ideas and be able to share them with others.
 Each line drawn with the machine, each vector created in Illustrator is a form of self-expression focused on a client, and truly, I promise you... there is nothing more beautiful than knowing that you have made someone happy by giving them what they need .
 For me Frontend development is a simile because in each project I am creating from scratch and materializing through myself, a product that will be used by others.</p>
-<h3><strong>Here you can contact me </strong></h3>
+<h2><strong>Here you can contact me </strong></h2>
 <p>
  <a href="https://www.linkedin.com/in/karla-cecilia-rm/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn Icon" width="22px"></a>
 <a href="https://api.whatsapp.com/send?phone=525549514336">
@@ -24,9 +24,9 @@ For me Frontend development is a simile because in each project I am creating fr
 <img align="right" src="https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif" q width ="230"/>
 <h2>⚡️ About me Facts</h2>
 <ul>
-<li>🤓 I’m currently learning <strong>TS and Angular</strong>.</li>
-<li>🧐 I am practicing my spoken English, I can understand it almost perfectly.</li>
  <li>📙 Here you can find <strong>my resume ... just click here:</strong> <a href="https://drive.google.com/file/d/17i48hwgL0b3gxMNR2f6hRBRnnJZhVf9E/view?usp=sharing">📝</a>.</li>
+<li>🤓 I’m currently learning <strong>TS and Angular</strong>.</li> 
+<li>🧐 I am practicing my spoken English, I can understand it almost perfectly.</li>
 <li>🤖 Karla's Fact: I think we were born to do more than one thing, I love learning new things。</li>
 </ul>
 
@@ -51,8 +51,4 @@ For me Frontend development is a simile because in each project I am creating fr
 <div align="center">
  <p><strong> Thank you <strong> </p>
 <img align="center" src="https://media.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy-downsized.gif" q width ="200"/>
-  <br>
-  <br>
-   <p><strong>Coding at the rhythm of:</strong></p>
- 
 </div>
