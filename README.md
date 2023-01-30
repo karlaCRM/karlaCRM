@@ -27,7 +27,6 @@ For me Frontend development is a simile because in each project I am creating fr
 <li>🤓 I’m currently learning <strong>TS and Angular</strong>.</li>
 <li>🧐 I am practicing my spoken English, I can understand it almost perfectly.</li>
  <li>📙 Here you can find <strong>my resume ... just click here:</strong> <a href="https://drive.google.com/file/d/17i48hwgL0b3gxMNR2f6hRBRnnJZhVf9E/view?usp=sharing">📝</a>.</li>
- 
 <li>🤖 Karla's Fact: I think we were born to do more than one thing, I love learning new things。</li>
 </ul>
 
@@ -57,4 +56,3 @@ For me Frontend development is a simile because in each project I am creating fr
    <p><strong>Coding at the rhythm of:</strong></p>
  
 </div>
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22bejyzlj7mjg5gdkay5mkovi&cover_image=true&theme=default&show_offline=false&background_color=121212)(https://github.com/kittinan/spotify-github-profile)
