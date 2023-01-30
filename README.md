@@ -52,3 +52,10 @@ For me Frontend development is a simile because in each project I am creating fr
  <p><strong> Thank you <strong> </p>
 <img align="center" src="https://media.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy-downsized.gif" q width ="200"/>
 </div>
+  <br><br>
+  <div align="center">
+ <p align="center"><strong>coding at the rhythm of: </strong></p>
+
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22bejyzlj7mjg5gdkay5mkovi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+   
+ </div>
