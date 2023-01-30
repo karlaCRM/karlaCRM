@@ -31,7 +31,7 @@ For me Frontend development is a simile because in each project I am creating fr
 <li>🤖 Karla's Fact: I think we were born to do more than one thing, I love learning new things。</li>
 </ul>
 
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 Some Languages & Tools I Use</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular-js" width="35" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="35" height="35" />
@@ -52,6 +52,9 @@ For me Frontend development is a simile because in each project I am creating fr
 <div align="center">
  <p><strong> Thank you <strong> </p>
 <img align="center" src="https://media.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy-downsized.gif" q width ="200"/>
+  <br>
+  <br>
+   <p><strong>Coding at the rhythm of:</strong></p>
+ 
 </div>
-
-
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22bejyzlj7mjg5gdkay5mkovi&cover_image=true&theme=default&show_offline=false&background_color=121212)(https://github.com/kittinan/spotify-github-profile)
