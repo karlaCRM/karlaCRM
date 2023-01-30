@@ -19,9 +19,9 @@ For me Frontend development is a simile because in each project I am creating fr
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </p>
+<img align="right" src="https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif" q width ="230"/>
 <br>
 <p>❤️‍🔥🌮 In this profile we love javascript and tacos  🌮❤️‍🔥</p>
-<img align="right" src="https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif" q width ="230"/>
 <h2>⚡️ About me Facts</h2>
 <ul>
  <li>📙 Here you can find <strong>my resume ... just click here:</strong> <a href="https://drive.google.com/file/d/17i48hwgL0b3gxMNR2f6hRBRnnJZhVf9E/view?usp=sharing">📝</a>.</li>
