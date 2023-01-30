@@ -1,5 +1,5 @@
 ![bannerK](https://user-images.githubusercontent.com/114018277/215351626-2ab336d9-dc35-4533-9b08-1cd599f70572.png)
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=karlaCRM.karlaCRM" alt="visitors"></p>
+![visitors](https://komarev.com/ghpvc/?username=karlaCRM&color=blueviolet)
 
 <h1>Hi 🔥💻, I'm Karla a.k.a "Abraxas" 🔥💻</h1>
 <p align="justify"><strong>I'm a front-end developer, graphic designer, and tattoo artist based in Mexico.</strong>
