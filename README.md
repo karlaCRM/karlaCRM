@@ -1,7 +1,7 @@
 ![bannerK](https://user-images.githubusercontent.com/114018277/215351626-2ab336d9-dc35-4533-9b08-1cd599f70572.png)
 ![visitors](https://komarev.com/ghpvc/?username=karlaCRM&color=blueviolet)
 
-<h1>Hi 🔥💻, I'm Karla a.k.a "Abraxas" 🔥💻</h1>
+<h1>🔥💻 About me 🔥💻</h1>
 <p align="justify"><strong>I'm a front-end developer, graphic designer, and tattoo artist based in Mexico.</strong>
 I like to consider myself an artisan. Everything I have learned has been driven by the desire to "create", to materialize my ideas and be able to share them with others.
 Each line drawn with the machine, each vector created in Illustrator is a form of self-expression focused on a client, and truly, I promise you... there is nothing more beautiful than knowing that you have made someone happy by giving them what they need .
@@ -22,7 +22,7 @@ For me Frontend development is a simile because in each project I am creating fr
 <img align="right" src="https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif" q width ="230"/>
 <br>
 <p>❤️‍🔥🌮 In this profile we love javascript and tacos  🌮❤️‍🔥</p>
-<h2>⚡️ About me Facts</h2>
+<h2>⚡️ Abraxas's Facts</h2>
 <ul>
  <li>📙 Here you can find <strong>my resume ... just click here:</strong> <a href="https://drive.google.com/file/d/17i48hwgL0b3gxMNR2f6hRBRnnJZhVf9E/view?usp=sharing">📝</a>.</li>
 <li>🤓 I’m currently learning <strong>TS and Angular</strong>.</li> 
