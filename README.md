@@ -9,12 +9,6 @@ For me Frontend development is a simile because in each project I am creating fr
 <h2><strong>Here you can contact me </strong></h2>
 <p>
  <a href="https://www.linkedin.com/in/karla-cecilia-rm/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn Icon" width="22px"></a>
-<a href="https://api.whatsapp.com/send?phone=525549514336">
-<img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a href="https://www.instagram.com/abraxasturambar/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="mailto:abraxaskrm@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
