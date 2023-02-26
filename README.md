@@ -19,7 +19,7 @@ For me Frontend development is a simile because in each project I am creating fr
 <h2>⚡️ Abraxas's Facts</h2>
 <ul>
  <li>📙 Here you can find <strong>my resume ... just click here:</strong> <a href="https://drive.google.com/file/d/17i48hwgL0b3gxMNR2f6hRBRnnJZhVf9E/view?usp=sharing">📝</a>.</li>
-<li>🚀 Here is my portfolio, feel free of check it out right here:</strong> <a href="[https://drive.google.com/file/d/17i48hwgL0b3gxMNR2f6hRBRnnJZhVf9E/view?usp=sharing](https://portfoliokarla.vercel.app/)">💻</a>.</li>
+<li>🚀 Here is my portfolio, feel free of check it out right here:</strong> <a href="https://portfoliokarla.vercel.app/">💻</a>.</li>
 <li>🤓 I’m currently learning <strong>TS and Angular</strong>.</li> 
 <li>🧐 I am practicing my spoken English, I can understand it almost perfectly.</li>
 <li>🤖 Random Fact: I think we were born to do more than one thing, I love learning new things。</li>
